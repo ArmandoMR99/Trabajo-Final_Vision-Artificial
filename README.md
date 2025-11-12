@@ -1,4 +1,4 @@
-# Trabajo-Final_Vision-Artificial
+# Trabajo-Final_Vision-Artificial_Planetarium
 
 ### Ideación de la experiencia
 Esta idea surge a partir de la materia de Modelamiento Matemático, en la cual se nos pidió elegir un tema y aplicarlo dentro del contexto de nuestra carrera.
